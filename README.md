@@ -1,4 +1,4 @@
-# Myers-Briggs_Type_Indicator_-MBTI
+# Myers-Briggs_Type_Indicator-MBTI
 
 #### Description: ####
 
