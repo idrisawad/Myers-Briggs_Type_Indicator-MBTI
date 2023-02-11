@@ -1,3 +1,5 @@
+![MBTI](https://user-images.githubusercontent.com/123701734/218233269-26c75c02-6358-4c6f-967c-45a37ebfb907.png)
+
 # Myers-Briggs_Type_Indicator-MBTI
 
 #### Description: ####
