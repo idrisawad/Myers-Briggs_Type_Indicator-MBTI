@@ -1,3 +1,33 @@
+print("""
+_________________________________
+███╗   ███╗██████╗ ████████╗██╗
+████╗ ████║██╔══██╗╚══██╔══╝██║
+██╔████╔██║██████╔╝   ██║   ██║
+██║╚██╔╝██║██╔══██╗   ██║   ██║
+██║ ╚═╝ ██║██████╔╝   ██║   ██║
+╚═╝     ╚═╝╚═════╝    ╚═╝   ╚═╝
+Myers-Briggs Type Indicator Tool 
+_________________________________
+Author: Idris Awad
+Github: @idrisawad
+LinkedIn: @idris-awad
+_________________________________
+Usage: Answer the questions.
+
+The code will analyze the answers 
+and determine the user's personality type 
+according to the MBTI system.
+The result will be displayed with a brief 
+description of the character type.
+
+Note: The code only determines the personality type 
+based on the answers given, and should not be used 
+as a substitute for professional psychological 
+assessments or evaluations.
+
+_________________________________
+""")
+
 # Myers-Briggs Type Indicator questions
 questions = {
     "E/I": "Do you prefer to spend time with others or alone?\n(E)xtrovert or (I)ntrovert",
